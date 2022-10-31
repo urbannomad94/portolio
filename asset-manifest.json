@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portolio/static/css/main.370c9484.chunk.css",
+    "main.js": "/portolio/static/js/main.70d82f69.chunk.js",
+    "main.js.map": "/portolio/static/js/main.70d82f69.chunk.js.map",
+    "runtime-main.js": "/portolio/static/js/runtime-main.34df728c.js",
+    "runtime-main.js.map": "/portolio/static/js/runtime-main.34df728c.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/portolio/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.7a5c4ca6.chunk.js": "/portolio/static/js/2.7a5c4ca6.chunk.js",
+    "static/js/2.7a5c4ca6.chunk.js.map": "/portolio/static/js/2.7a5c4ca6.chunk.js.map",
+    "index.html": "/portolio/index.html",
+    "static/css/2.7fc9bc2b.chunk.css.map": "/portolio/static/css/2.7fc9bc2b.chunk.css.map",
+    "static/css/main.370c9484.chunk.css.map": "/portolio/static/css/main.370c9484.chunk.css.map",
+    "static/js/2.7a5c4ca6.chunk.js.LICENSE.txt": "/portolio/static/js/2.7a5c4ca6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34df728c.js",
+    "static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.7a5c4ca6.chunk.js",
+    "static/css/main.370c9484.chunk.css",
+    "static/js/main.70d82f69.chunk.js"
+  ]
+}
